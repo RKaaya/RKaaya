@@ -1,3 +1,5 @@
+![Header](./icons/github-header-image.png)
+
 ## Hi there 👋
 
 <!--
