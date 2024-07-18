@@ -1,5 +1,5 @@
 # Hey There! 👋
-**I'm Gergely** a passionate Backend Java Developer with a knack for creating efficient and scalable solutions. Coding isn't just my profession; it's my hobby. I love diving into new technologies and developing random projects in my free time.
+**I'm Gergely** - a passionate Backend Java Developer with a knack for creating efficient and scalable solutions. Coding isn't just my profession; it's my hobby. I love diving into new technologies and developing random projects in my free time.
 
 ## What I Do
 - Backend Development: Expertise in Java and its ecosystem. Crafting robust APIs, optimizing performance, and ensuring seamless integration.
